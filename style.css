@@ -1,0 +1,41 @@
+ *{
+    font-family: "inter",serif ;
+    margin: 0px;
+    padding: 0px;
+    
+
+ }
+ section{
+    width:500px ;
+    display: inline-block;
+    vertical-align: top;
+    margin-left:  10px;
+    text-align: center;
+    position: relative;
+
+}
+.nav{
+    text-align: right;
+}
+header{
+    font-size: 32px;
+    text-align: top;
+    margin-bottom: 90px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+img{
+    width: 100%;
+    display: inline;
+   
+}
+h3{
+    width:200px ;
+    font-size: 24px;
+    margin: 0px 8px ;
+
+}
+.div {
+    padding:0px ;
+}
